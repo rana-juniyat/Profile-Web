@@ -53,3 +53,21 @@ section{
     background-position: center;
     background-attachment: fixed;
 }
+
+.main h2  {
+    color: #f0f0f0;
+    font-size: 1.4em;
+    font-weight: 500;
+}
+
+.main h2 span {
+    display: inline-block;
+    margin-top: 10px;
+    color: #4e9eff;
+    font-size: 3em;
+    font-weight: 600;
+}
+
+.main h3{
+    
+}
