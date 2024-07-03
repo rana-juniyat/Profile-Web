@@ -38,3 +38,18 @@ header{
 .navigation a:hover{
     color: #601cfc;
 }
+
+section{
+    padding: 100px 200px;
+}
+
+.main{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(images/240_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
